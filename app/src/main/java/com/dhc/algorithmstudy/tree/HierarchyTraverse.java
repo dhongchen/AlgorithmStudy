@@ -8,6 +8,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 /**
  * @author donghongchen
  * @create 2020-08-17 15:36
+ *
+ * 《剑指offer2》 第32题
+ *  分行从上倒下打印二叉树。
  */
 public class HierarchyTraverse {
 
